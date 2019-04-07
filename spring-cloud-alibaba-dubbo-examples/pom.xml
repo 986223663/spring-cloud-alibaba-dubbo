@@ -8,8 +8,6 @@
     <version>1.0.0-SNAPSHOT</version>
     <packaging>pom</packaging>
 
-    <url>http://www.funtl.com</url>
-
     <modules>
         <module>spring-cloud-alibaba-dubbo-provider</module>
         <module>spring-cloud-alibaba-dubbo-consumer</module>
@@ -127,16 +125,16 @@
     </licenses>
 
     <scm>
-        <url>https://github.com/funtl/spring-cloud-alibaba-dubbo</url>
-        <connection>scm:githttps://github.com/funtl/spring-cloud-alibaba-dubbo.git</connection>
-        <developerConnection>scm:git:https://github.com/funtl/spring-cloud-alibaba-dubbo.git</developerConnection>
+        <url>https://github.com/986223663/spring-cloud-alibaba-dubbo</url>
+        <connection>scm:githttps://github.com/986223663/spring-cloud-alibaba-dubbo.git</connection>
+        <developerConnection>scm:git:https://github.com/986223663/spring-cloud-alibaba-dubbo.git</developerConnection>
     </scm>
 
     <developers>
         <developer>
-            <name>Lusifer</name>
-            <email>lee.lusifer@gmail.com</email>
-            <url>http://www.funtl.com</url>
+            <name>Luxus</name>
+            <email>986223663@qq.com</email>
+            <url>http://</url>
         </developer>
     </developers>
     <repositories>

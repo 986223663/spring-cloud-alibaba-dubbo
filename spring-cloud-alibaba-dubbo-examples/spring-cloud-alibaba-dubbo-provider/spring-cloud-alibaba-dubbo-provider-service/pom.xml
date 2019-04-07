@@ -10,7 +10,6 @@
     </parent>
 
     <artifactId>spring-cloud-alibaba-dubbo-provider-service</artifactId>
-    <url>http://www.funtl.com</url>
 
     <dependencies>
         <dependency>

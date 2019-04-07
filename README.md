@@ -3,7 +3,7 @@
 ## 目标
 
 Spring Cloud Alibaba Dubbo 项目的目标是将 Dubbo 融入到 Spring Cloud Alibaba 生态中，使微服务之间的调用同时具备 RESTful 和 Dubbo 调用的能力。做到对业务代码无侵入，无感知；引入 JAR 包则微服务间调用使用 Dubbo，去掉 JAR 包则使用默认的 RESTful；实现参考的是 Spring Cloud 中文社区的 [Spring Cloud Dubbo](https://github.com/SpringCloud/spring-cloud-dubbo) 项目。
-
+Dubbo使用高速序列化框架kryo
 ## Nacos
 
 既然已经将 Dubbo 集成进了 Spring Cloud Alibaba，那么理所当然的我们的注册中心也不再采用 Zookeeper 方案而是转为 Nacos 方案了

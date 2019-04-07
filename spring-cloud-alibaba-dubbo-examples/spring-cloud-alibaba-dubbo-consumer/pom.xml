@@ -11,7 +11,6 @@
 
     <artifactId>spring-cloud-alibaba-dubbo-consumer</artifactId>
     <packaging>pom</packaging>
-    <url>http://www.funtl.com</url>
 
     <modules>
         <module>spring-cloud-alibaba-dubbo-consumer-service</module>
