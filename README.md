@@ -1,4 +1,4 @@
-# Spring Cloud Alibaba Dubbo
+# Spring Cloud Alibaba Dubbo,对feign和dubbo进行二次封装,使其既支持rest又支持rpc,取决于是否依赖dubbo的依赖
 
 ## 目标
 
